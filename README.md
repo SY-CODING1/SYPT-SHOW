@@ -1,4 +1,4 @@
-# Introduction to the programme:
+# Introduction to the programme SYPT:
 This program will shorten the time for you to create project files the front end,
 and Python projects,
 as well as creating text files.
