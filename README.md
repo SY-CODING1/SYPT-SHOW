@@ -45,3 +45,5 @@ to exit of the program use the command:
 ```
 exit
 ```
+## How download the program SYPT?
+to download the program click [here](https://www.mediafire.com/file/sermsltru9asw9d/SYPT.exe/file).
